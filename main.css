@@ -4,16 +4,17 @@
     box-sizing: border-box;
 }
 
-.modrian {
+table {
     border-collapse: collapse;
-    width: 600px;
-    height: 600px;
-    margin-left: 20px;
+    width: 840px;
+    height: 840px;
+    margin: 2px;
 }
-.modrian td {
-    width: 25px;
-    height: 25px;
+td {
+    
+    width: 35px;
+    height: 35px;
     border: 2px solid black;
 }
-
+ 
 
