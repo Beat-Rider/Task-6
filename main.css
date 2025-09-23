@@ -10,7 +10,7 @@ table {
     height: 840px;
     margin: 2px;
 }
-td {
+td, tr {
     
     width: 35px;
     height: 35px;
